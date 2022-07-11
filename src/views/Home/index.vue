@@ -189,7 +189,7 @@ export default {
   border-radius: 4px;
   border: 1px solid #ebeef5;
   background-color: #fff;
-  overflow: hidden;
+  overflow: auto;
   color: #303133;
   transition: 0.3s;
 }
